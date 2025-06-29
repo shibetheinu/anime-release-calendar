@@ -2,28 +2,24 @@ name: Update Anime Calendar
 
 on:
   schedule:
-    - cron: '0 3 * * *'  # Every day at 3 AM UTC
+    - cron: '0 10-23 * * *'
+    - cron: '0 0-3 * * *'
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
-
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
-
       - name: Install dependencies
         run: pip install pytz
-
       - name: Run calendar generator
         run: python generate_calendar.py
-
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
