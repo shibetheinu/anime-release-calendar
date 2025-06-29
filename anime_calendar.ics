@@ -1,0 +1,344 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YourAnimeCalendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Anime Release Calendar
+X-WR-TIMEZONE:America/New_York
+
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+
+### Dandadan Season 2
+BEGIN:VEVENT
+UID:dandadan-s2-1@anime
+DTSTART;TZID=America/New_York:20250704T000000
+DTEND;TZID=America/New_York:20250704T235900
+RRULE:FREQ=WEEKLY;COUNT=12
+SUMMARY:👁️ Dandadan Season 2 Episode 1
+DESCRIPTION:Dandadan S2 Episode 1
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+
+### Call of the Night Season 2
+BEGIN:VEVENT
+UID:callofthenight-s2-1@anime
+DTSTART;TZID=America/New_York:20250704T000000
+DTEND;TZID=America/New_York:20250704T235900
+RRULE:FREQ=WEEKLY;COUNT=12
+SUMMARY:🌙 Call of the Night Season 2 Episode 1
+DESCRIPTION:Call of the Night S2 Episode 1
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+
+### Lord of Mysteries
+BEGIN:VEVENT
+UID:lordofmysteries-1@anime
+DTSTART;TZID=America/New_York:20250704T000000
+DTEND;TZID=America/New_York:20250704T235900
+RRULE:FREQ=WEEKLY;COUNT=12
+SUMMARY:🕰️ Lord of Mysteries Episode 1
+DESCRIPTION:Lord of Mysteries Episode 1
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+
+### The Fragrant Flower Blooms With Dignity
+BEGIN:VEVENT
+UID:fragrantflower-s1-1@anime
+DTSTART;TZID=America/New_York:20250705T000000
+DTEND;TZID=America/New_York:20250705T235900
+RRULE:FREQ=WEEKLY;COUNT=12
+SUMMARY:🌺 The Fragrant Flower Blooms With Dignity Episode 1
+DESCRIPTION:Episode discussion: [reddit links placeholder]
+Manga vs anime differences: [placeholder]
+Production trivia: [placeholder]
+English dub info: [placeholder]
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+
+### Rascal Does Not Dream of Santa Claus (movie/special)
+BEGIN:VEVENT
+UID:rascal-santa-claus@anime
+DTSTART;TZID=America/New_York:20250705T000000
+DTEND;TZID=America/New_York:20250705T235900
+SUMMARY:🎅 Rascal Does Not Dream of Santa Claus Release
+DESCRIPTION:Rascal Does Not Dream of Santa Claus Movie/Special Release
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Release happening now!
+END:VALARM
+END:VEVENT
+
+### I Was Reincarnated as 7th Prince Season 2
+BEGIN:VEVENT
+UID:7thprince-s2-1@anime
+DTSTART;TZID=America/New_York:20250704T000000
+DTEND;TZID=America/New_York:20250704T235900
+RRULE:FREQ=WEEKLY;COUNT=12
+SUMMARY:👑 I Was Reincarnated as 7th Prince Season 2 Episode 1
+DESCRIPTION:I Was Reincarnated as 7th Prince S2 Episode 1
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+
+### Dress Up Darling Season 2
+BEGIN:VEVENT
+UID:dressupdarling-s2-1@anime
+DTSTART;TZID=America/New_York:20250704T000000
+DTEND;TZID=America/New_York:20250704T235900
+RRULE:FREQ=WEEKLY;COUNT=12
+SUMMARY:👒 Dress Up Darling Season 2 Episode 1
+DESCRIPTION:Dress Up Darling S2 Episode 1
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+
+### Chainsaw Man Reze Arc
+BEGIN:VEVENT
+UID:chainsawman-reze-1@anime
+DTSTART;TZID=America/New_York:20250704T000000
+DTEND;TZID=America/New_York:20250704T235900
+RRULE:FREQ=WEEKLY;COUNT=12
+SUMMARY:🪚 Chainsaw Man Reze Arc Episode 1
+DESCRIPTION:Chainsaw Man Reze Arc Episode 1
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+
+### Kaiju No. 8 Season 2
+BEGIN:VEVENT
+UID:kaijuno8-s2-1@anime
+DTSTART;TZID=America/New_York:20250704T000000
+DTEND;TZID=America/New_York:20250704T235900
+RRULE:FREQ=WEEKLY;COUNT=12
+SUMMARY:💠 Kaiju No. 8 Season 2 Episode 1
+DESCRIPTION:Kaiju No. 8 S2 Episode 1
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+
+### Spy x Family Season 3
+BEGIN:VEVENT
+UID:spyxfamily-s3-1@anime
+DTSTART;TZID=America/New_York:20250704T000000
+DTEND;TZID=America/New_York:20250704T235900
+RRULE:FREQ=WEEKLY;COUNT=12
+SUMMARY:🕵️ Spy x Family Season 3 Episode 1
+DESCRIPTION:Spy x Family S3 Episode 1
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+
+### Demon Slayer: Infinity Castle
+BEGIN:VEVENT
+UID:demonslayer-infinitycastle-1@anime
+DTSTART;TZID=America/New_York:20250705T000000
+DTEND;TZID=America/New_York:20250705T235900
+RRULE:FREQ=WEEKLY;COUNT=12
+SUMMARY:🔥 Demon Slayer: Infinity Castle Episode 1
+DESCRIPTION:Demon Slayer: Infinity Castle Episode 1
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+
+### Jujutsu Kaisen: Hidden Inventory Movie
+BEGIN:VEVENT
+UID:jujutsukaisen-hiddeninventory-movie@anime
+DTSTART;TZID=America/New_York:20250705T000000
+DTEND;TZID=America/New_York:20250705T235900
+SUMMARY:🩸 Jujutsu Kaisen: Hidden Inventory Movie Release
+DESCRIPTION:Jujutsu Kaisen: Hidden Inventory Movie Release
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Movie releasing now!
+END:VALARM
+END:VEVENT
+
+### Gachiakuta
+BEGIN:VEVENT
+UID:gachiakuta-1@anime
+DTSTART;TZID=America/New_York:20250705T000000
+DTEND;TZID=America/New_York:20250705T235900
+RRULE:FREQ=WEEKLY;COUNT=12
+SUMMARY:🗑️ Gachiakuta Episode 1
+DESCRIPTION:Gachiakuta Episode 1
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+
+### Takopi's Original Sin
+BEGIN:VEVENT
+UID:takopisoriginalsin-1@anime
+DTSTART;TZID=America/New_York:20250705T000000
+DTEND;TZID=America/New_York:20250705T235900
+RRULE:FREQ=WEEKLY;COUNT=12
+SUMMARY:🐙 Takopi's Original Sin Episode 1
+DESCRIPTION:Takopi's Original Sin Episode 1
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+
+### Secrets of the Silent Witch
+BEGIN:VEVENT
+UID:secretsofthesilentwitch-1@anime
+DTSTART;TZID=America/New_York:20250705T000000
+DTEND;TZID=America/New_York:20250705T235900
+RRULE:FREQ=WEEKLY;COUNT=12
+SUMMARY:🧙 Secrets of the Silent Witch Episode 1
+DESCRIPTION:Secrets of the Silent Witch Episode 1
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+
+### Watari-kun's ****** Is About to Collapse
+BEGIN:VEVENT
+UID:watari-1@anime
+DTSTART;TZID=America/New_York:20250705T000000
+DTEND;TZID=America/New_York:20250705T235900
+RRULE:FREQ=WEEKLY;COUNT=12
+SUMMARY:💔 Watari-kun's ****** Is About to Collapse Episode 1
+DESCRIPTION:Watari-kun's ****** Is About to Collapse Episode 1
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+
+### Grand Blue Dreaming Season 2
+BEGIN:VEVENT
+UID:grandblue-s2-1@anime
+DTSTART;TZID=America/New_York:20250705T000000
+DTEND;TZID=America/New_York:20250705T235900
+RRULE:FREQ=WEEKLY;COUNT=12
+SUMMARY:🍻 Grand Blue Dreaming Season 2 Episode 1
+DESCRIPTION:Grand Blue Dreaming S2 Episode 1
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+
+### A Couple of Cuckoos Season 2
+BEGIN:VEVENT
+UID:coupleofcuckoos-s2-1@anime
+DTSTART;TZID=America/New_York:20250705T000000
+DTEND;TZID=America/New_York:20250705T235900
+RRULE:FREQ=WEEKLY;COUNT=12
+SUMMARY:🐦 A Couple of Cuckoos Season 2 Episode 1
+DESCRIPTION:A Couple of Cuckoos S2 Episode 1
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+
+### To Be Hero X (Saturdays 8:30 PM Eastern)
+BEGIN:VEVENT
+UID:tobeherox-1@anime
+DTSTART;TZID=America/New_York:20250705T203000
+DTEND;TZID=America/New_York:20250705T213000
+RRULE:FREQ=WEEKLY
+SUMMARY:🫰 To Be Hero X Episode 1
+DESCRIPTION:To Be Hero X Episode 1
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+
+### Witch Watch (Sundays 8:00 AM Eastern)
+BEGIN:VEVENT
+UID:witchwatch-1@anime
+DTSTART;TZID=America/New_York:20250706T080000
+DTEND;TZID=America/New_York:20250706T090000
+RRULE:FREQ=WEEKLY
+SUMMARY:🧹 Witch Watch Episode 1
+DESCRIPTION:Witch Watch Episode 1
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+
+### Apothecary Diaries Season 2 (all-day placeholders weekly)
+BEGIN:VEVENT
+UID:apothecarydiaries-s2-1@anime
+DTSTART;TZID=America/New_York:20250704T000000
+DTEND;TZID=America/New_York:20250704T235900
+RRULE:FREQ=WEEKLY
+SUMMARY:🏺 Apothecary Diaries Season 2 Episode 1
+DESCRIPTION:Apothecary Diaries S2 Episode 1 (time TBD)
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+
+END:VCALENDAR
