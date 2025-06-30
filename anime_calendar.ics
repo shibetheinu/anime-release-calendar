@@ -24,321 +24,2764 @@ DTSTART:19701101T020000
 RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
-
-### Dandadan Season 2
 BEGIN:VEVENT
-UID:dandadan-s2-1@anime
-DTSTART;TZID=America/New_York:20250704T000000
-DTEND;TZID=America/New_York:20250704T235900
-RRULE:FREQ=WEEKLY;COUNT=12
+UID:dandadan-s2-ep1@anime
+DTSTART;TZID=America/New_York:20250704T200000
+DTEND;TZID=America/New_York:20250704T210000
 SUMMARY:👁️ Dandadan Season 2 Episode 1
-DESCRIPTION:Dandadan S2 Episode 1
+DESCRIPTION:Dandadan Season 2 Episode 1 airs today!
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
 DESCRIPTION:Episode airing now!
 END:VALARM
 END:VEVENT
-
-### Call of the Night Season 2
 BEGIN:VEVENT
-UID:callofthenight-s2-1@anime
-DTSTART;TZID=America/New_York:20250704T000000
-DTEND;TZID=America/New_York:20250704T235900
-RRULE:FREQ=WEEKLY;COUNT=12
+UID:dandadan-s2-ep2@anime
+DTSTART;TZID=America/New_York:20250711T200000
+DTEND;TZID=America/New_York:20250711T210000
+SUMMARY:👁️ Dandadan Season 2 Episode 2
+DESCRIPTION:Dandadan Season 2 Episode 2 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dandadan-s2-ep3@anime
+DTSTART;TZID=America/New_York:20250718T200000
+DTEND;TZID=America/New_York:20250718T210000
+SUMMARY:👁️ Dandadan Season 2 Episode 3
+DESCRIPTION:Dandadan Season 2 Episode 3 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dandadan-s2-ep4@anime
+DTSTART;TZID=America/New_York:20250725T200000
+DTEND;TZID=America/New_York:20250725T210000
+SUMMARY:👁️ Dandadan Season 2 Episode 4
+DESCRIPTION:Dandadan Season 2 Episode 4 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dandadan-s2-ep5@anime
+DTSTART;TZID=America/New_York:20250801T200000
+DTEND;TZID=America/New_York:20250801T210000
+SUMMARY:👁️ Dandadan Season 2 Episode 5
+DESCRIPTION:Dandadan Season 2 Episode 5 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dandadan-s2-ep6@anime
+DTSTART;TZID=America/New_York:20250808T200000
+DTEND;TZID=America/New_York:20250808T210000
+SUMMARY:👁️ Dandadan Season 2 Episode 6
+DESCRIPTION:Dandadan Season 2 Episode 6 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dandadan-s2-ep7@anime
+DTSTART;TZID=America/New_York:20250815T200000
+DTEND;TZID=America/New_York:20250815T210000
+SUMMARY:👁️ Dandadan Season 2 Episode 7
+DESCRIPTION:Dandadan Season 2 Episode 7 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dandadan-s2-ep8@anime
+DTSTART;TZID=America/New_York:20250822T200000
+DTEND;TZID=America/New_York:20250822T210000
+SUMMARY:👁️ Dandadan Season 2 Episode 8
+DESCRIPTION:Dandadan Season 2 Episode 8 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dandadan-s2-ep9@anime
+DTSTART;TZID=America/New_York:20250829T200000
+DTEND;TZID=America/New_York:20250829T210000
+SUMMARY:👁️ Dandadan Season 2 Episode 9
+DESCRIPTION:Dandadan Season 2 Episode 9 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dandadan-s2-ep10@anime
+DTSTART;TZID=America/New_York:20250905T200000
+DTEND;TZID=America/New_York:20250905T210000
+SUMMARY:👁️ Dandadan Season 2 Episode 10
+DESCRIPTION:Dandadan Season 2 Episode 10 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dandadan-s2-ep11@anime
+DTSTART;TZID=America/New_York:20250912T200000
+DTEND;TZID=America/New_York:20250912T210000
+SUMMARY:👁️ Dandadan Season 2 Episode 11
+DESCRIPTION:Dandadan Season 2 Episode 11 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dandadan-s2-ep12@anime
+DTSTART;TZID=America/New_York:20250919T200000
+DTEND;TZID=America/New_York:20250919T210000
+SUMMARY:👁️ Dandadan Season 2 Episode 12
+DESCRIPTION:Dandadan Season 2 Episode 12 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:call-of-the-night-s2-ep1@anime
+DTSTART;TZID=America/New_York:20250704T210000
+DTEND;TZID=America/New_York:20250704T220000
 SUMMARY:🌙 Call of the Night Season 2 Episode 1
-DESCRIPTION:Call of the Night S2 Episode 1
+DESCRIPTION:Call of the Night Season 2 Episode 1 airs today!
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
 DESCRIPTION:Episode airing now!
 END:VALARM
 END:VEVENT
-
-### Lord of Mysteries
 BEGIN:VEVENT
-UID:lordofmysteries-1@anime
-DTSTART;TZID=America/New_York:20250704T000000
-DTEND;TZID=America/New_York:20250704T235900
-RRULE:FREQ=WEEKLY;COUNT=12
-SUMMARY:🕰️ Lord of Mysteries Episode 1
-DESCRIPTION:Lord of Mysteries Episode 1
+UID:call-of-the-night-s2-ep2@anime
+DTSTART;TZID=America/New_York:20250711T210000
+DTEND;TZID=America/New_York:20250711T220000
+SUMMARY:🌙 Call of the Night Season 2 Episode 2
+DESCRIPTION:Call of the Night Season 2 Episode 2 airs today!
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
 DESCRIPTION:Episode airing now!
 END:VALARM
 END:VEVENT
-
-### The Fragrant Flower Blooms With Dignity
 BEGIN:VEVENT
-UID:fragrantflower-s1-1@anime
-DTSTART;TZID=America/New_York:20250705T000000
-DTEND;TZID=America/New_York:20250705T235900
-RRULE:FREQ=WEEKLY;COUNT=12
+UID:call-of-the-night-s2-ep3@anime
+DTSTART;TZID=America/New_York:20250718T210000
+DTEND;TZID=America/New_York:20250718T220000
+SUMMARY:🌙 Call of the Night Season 2 Episode 3
+DESCRIPTION:Call of the Night Season 2 Episode 3 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:call-of-the-night-s2-ep4@anime
+DTSTART;TZID=America/New_York:20250725T210000
+DTEND;TZID=America/New_York:20250725T220000
+SUMMARY:🌙 Call of the Night Season 2 Episode 4
+DESCRIPTION:Call of the Night Season 2 Episode 4 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:call-of-the-night-s2-ep5@anime
+DTSTART;TZID=America/New_York:20250801T210000
+DTEND;TZID=America/New_York:20250801T220000
+SUMMARY:🌙 Call of the Night Season 2 Episode 5
+DESCRIPTION:Call of the Night Season 2 Episode 5 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:call-of-the-night-s2-ep6@anime
+DTSTART;TZID=America/New_York:20250808T210000
+DTEND;TZID=America/New_York:20250808T220000
+SUMMARY:🌙 Call of the Night Season 2 Episode 6
+DESCRIPTION:Call of the Night Season 2 Episode 6 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:call-of-the-night-s2-ep7@anime
+DTSTART;TZID=America/New_York:20250815T210000
+DTEND;TZID=America/New_York:20250815T220000
+SUMMARY:🌙 Call of the Night Season 2 Episode 7
+DESCRIPTION:Call of the Night Season 2 Episode 7 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:call-of-the-night-s2-ep8@anime
+DTSTART;TZID=America/New_York:20250822T210000
+DTEND;TZID=America/New_York:20250822T220000
+SUMMARY:🌙 Call of the Night Season 2 Episode 8
+DESCRIPTION:Call of the Night Season 2 Episode 8 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:call-of-the-night-s2-ep9@anime
+DTSTART;TZID=America/New_York:20250829T210000
+DTEND;TZID=America/New_York:20250829T220000
+SUMMARY:🌙 Call of the Night Season 2 Episode 9
+DESCRIPTION:Call of the Night Season 2 Episode 9 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:call-of-the-night-s2-ep10@anime
+DTSTART;TZID=America/New_York:20250905T210000
+DTEND;TZID=America/New_York:20250905T220000
+SUMMARY:🌙 Call of the Night Season 2 Episode 10
+DESCRIPTION:Call of the Night Season 2 Episode 10 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:call-of-the-night-s2-ep11@anime
+DTSTART;TZID=America/New_York:20250912T210000
+DTEND;TZID=America/New_York:20250912T220000
+SUMMARY:🌙 Call of the Night Season 2 Episode 11
+DESCRIPTION:Call of the Night Season 2 Episode 11 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:call-of-the-night-s2-ep12@anime
+DTSTART;TZID=America/New_York:20250919T210000
+DTEND;TZID=America/New_York:20250919T220000
+SUMMARY:🌙 Call of the Night Season 2 Episode 12
+DESCRIPTION:Call of the Night Season 2 Episode 12 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lord-of-mysteries-s1-ep1@anime
+DTSTART;TZID=America/New_York:20250705T200000
+DTEND;TZID=America/New_York:20250705T210000
+SUMMARY:🕵️ Lord of Mysteries Episode 1
+DESCRIPTION:Lord of Mysteries Episode 1 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lord-of-mysteries-s1-ep2@anime
+DTSTART;TZID=America/New_York:20250712T200000
+DTEND;TZID=America/New_York:20250712T210000
+SUMMARY:🕵️ Lord of Mysteries Episode 2
+DESCRIPTION:Lord of Mysteries Episode 2 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lord-of-mysteries-s1-ep3@anime
+DTSTART;TZID=America/New_York:20250719T200000
+DTEND;TZID=America/New_York:20250719T210000
+SUMMARY:🕵️ Lord of Mysteries Episode 3
+DESCRIPTION:Lord of Mysteries Episode 3 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lord-of-mysteries-s1-ep4@anime
+DTSTART;TZID=America/New_York:20250726T200000
+DTEND;TZID=America/New_York:20250726T210000
+SUMMARY:🕵️ Lord of Mysteries Episode 4
+DESCRIPTION:Lord of Mysteries Episode 4 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lord-of-mysteries-s1-ep5@anime
+DTSTART;TZID=America/New_York:20250802T200000
+DTEND;TZID=America/New_York:20250802T210000
+SUMMARY:🕵️ Lord of Mysteries Episode 5
+DESCRIPTION:Lord of Mysteries Episode 5 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lord-of-mysteries-s1-ep6@anime
+DTSTART;TZID=America/New_York:20250809T200000
+DTEND;TZID=America/New_York:20250809T210000
+SUMMARY:🕵️ Lord of Mysteries Episode 6
+DESCRIPTION:Lord of Mysteries Episode 6 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lord-of-mysteries-s1-ep7@anime
+DTSTART;TZID=America/New_York:20250816T200000
+DTEND;TZID=America/New_York:20250816T210000
+SUMMARY:🕵️ Lord of Mysteries Episode 7
+DESCRIPTION:Lord of Mysteries Episode 7 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lord-of-mysteries-s1-ep8@anime
+DTSTART;TZID=America/New_York:20250823T200000
+DTEND;TZID=America/New_York:20250823T210000
+SUMMARY:🕵️ Lord of Mysteries Episode 8
+DESCRIPTION:Lord of Mysteries Episode 8 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lord-of-mysteries-s1-ep9@anime
+DTSTART;TZID=America/New_York:20250830T200000
+DTEND;TZID=America/New_York:20250830T210000
+SUMMARY:🕵️ Lord of Mysteries Episode 9
+DESCRIPTION:Lord of Mysteries Episode 9 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lord-of-mysteries-s1-ep10@anime
+DTSTART;TZID=America/New_York:20250906T200000
+DTEND;TZID=America/New_York:20250906T210000
+SUMMARY:🕵️ Lord of Mysteries Episode 10
+DESCRIPTION:Lord of Mysteries Episode 10 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lord-of-mysteries-s1-ep11@anime
+DTSTART;TZID=America/New_York:20250913T200000
+DTEND;TZID=America/New_York:20250913T210000
+SUMMARY:🕵️ Lord of Mysteries Episode 11
+DESCRIPTION:Lord of Mysteries Episode 11 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lord-of-mysteries-s1-ep12@anime
+DTSTART;TZID=America/New_York:20250920T200000
+DTEND;TZID=America/New_York:20250920T210000
+SUMMARY:🕵️ Lord of Mysteries Episode 12
+DESCRIPTION:Lord of Mysteries Episode 12 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-fragrant-flower-blooms-with-dignity-s1-ep1@anime
+DTSTART;TZID=America/New_York:20250705T210000
+DTEND;TZID=America/New_York:20250705T220000
 SUMMARY:🌺 The Fragrant Flower Blooms With Dignity Episode 1
-DESCRIPTION:Episode discussion: [reddit links placeholder]
-Manga vs anime differences: [placeholder]
-Production trivia: [placeholder]
-English dub info: [placeholder]
+DESCRIPTION:Reddit discussion: Episode 1 - differences from manga and production notes
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
 DESCRIPTION:Episode airing now!
 END:VALARM
 END:VEVENT
-
-### Rascal Does Not Dream of Santa Claus (movie/special)
 BEGIN:VEVENT
-UID:rascal-santa-claus@anime
-DTSTART;TZID=America/New_York:20250705T000000
-DTEND;TZID=America/New_York:20250705T235900
-SUMMARY:🎅 Rascal Does Not Dream of Santa Claus Release
-DESCRIPTION:Rascal Does Not Dream of Santa Claus Movie/Special Release
+UID:the-fragrant-flower-blooms-with-dignity-s1-ep2@anime
+DTSTART;TZID=America/New_York:20250712T210000
+DTEND;TZID=America/New_York:20250712T220000
+SUMMARY:🌺 The Fragrant Flower Blooms With Dignity Episode 2
+DESCRIPTION:Reddit discussion: Episode 2 - fans talk about animation quality
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
-DESCRIPTION:Release happening now!
+DESCRIPTION:Episode airing now!
 END:VALARM
 END:VEVENT
-
-### I Was Reincarnated as 7th Prince Season 2
 BEGIN:VEVENT
-UID:7thprince-s2-1@anime
-DTSTART;TZID=America/New_York:20250704T000000
-DTEND;TZID=America/New_York:20250704T235900
-RRULE:FREQ=WEEKLY;COUNT=12
+UID:the-fragrant-flower-blooms-with-dignity-s1-ep3@anime
+DTSTART;TZID=America/New_York:20250719T210000
+DTEND;TZID=America/New_York:20250719T220000
+SUMMARY:🌺 The Fragrant Flower Blooms With Dignity Episode 3
+DESCRIPTION:
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-fragrant-flower-blooms-with-dignity-s1-ep4@anime
+DTSTART;TZID=America/New_York:20250726T210000
+DTEND;TZID=America/New_York:20250726T220000
+SUMMARY:🌺 The Fragrant Flower Blooms With Dignity Episode 4
+DESCRIPTION:
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-fragrant-flower-blooms-with-dignity-s1-ep5@anime
+DTSTART;TZID=America/New_York:20250802T210000
+DTEND;TZID=America/New_York:20250802T220000
+SUMMARY:🌺 The Fragrant Flower Blooms With Dignity Episode 5
+DESCRIPTION:
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-fragrant-flower-blooms-with-dignity-s1-ep6@anime
+DTSTART;TZID=America/New_York:20250809T210000
+DTEND;TZID=America/New_York:20250809T220000
+SUMMARY:🌺 The Fragrant Flower Blooms With Dignity Episode 6
+DESCRIPTION:
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-fragrant-flower-blooms-with-dignity-s1-ep7@anime
+DTSTART;TZID=America/New_York:20250816T210000
+DTEND;TZID=America/New_York:20250816T220000
+SUMMARY:🌺 The Fragrant Flower Blooms With Dignity Episode 7
+DESCRIPTION:
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-fragrant-flower-blooms-with-dignity-s1-ep8@anime
+DTSTART;TZID=America/New_York:20250823T210000
+DTEND;TZID=America/New_York:20250823T220000
+SUMMARY:🌺 The Fragrant Flower Blooms With Dignity Episode 8
+DESCRIPTION:
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-fragrant-flower-blooms-with-dignity-s1-ep9@anime
+DTSTART;TZID=America/New_York:20250830T210000
+DTEND;TZID=America/New_York:20250830T220000
+SUMMARY:🌺 The Fragrant Flower Blooms With Dignity Episode 9
+DESCRIPTION:
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-fragrant-flower-blooms-with-dignity-s1-ep10@anime
+DTSTART;TZID=America/New_York:20250906T210000
+DTEND;TZID=America/New_York:20250906T220000
+SUMMARY:🌺 The Fragrant Flower Blooms With Dignity Episode 10
+DESCRIPTION:
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-fragrant-flower-blooms-with-dignity-s1-ep11@anime
+DTSTART;TZID=America/New_York:20250913T210000
+DTEND;TZID=America/New_York:20250913T220000
+SUMMARY:🌺 The Fragrant Flower Blooms With Dignity Episode 11
+DESCRIPTION:
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-fragrant-flower-blooms-with-dignity-s1-ep12@anime
+DTSTART;TZID=America/New_York:20250920T210000
+DTEND;TZID=America/New_York:20250920T220000
+SUMMARY:🌺 The Fragrant Flower Blooms With Dignity Episode 12
+DESCRIPTION:
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:rascal-does-not-dream-of-santa-claus-s1-ep1@anime
+DTSTART;TZID=America/New_York:20250704T220000
+DTEND;TZID=America/New_York:20250704T230000
+SUMMARY:🎅 Rascal Does Not Dream of Santa Claus Episode 1
+DESCRIPTION:Rascal Does Not Dream of Santa Claus Episode 1 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:rascal-does-not-dream-of-santa-claus-s1-ep2@anime
+DTSTART;TZID=America/New_York:20250711T220000
+DTEND;TZID=America/New_York:20250711T230000
+SUMMARY:🎅 Rascal Does Not Dream of Santa Claus Episode 2
+DESCRIPTION:Rascal Does Not Dream of Santa Claus Episode 2 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:rascal-does-not-dream-of-santa-claus-s1-ep3@anime
+DTSTART;TZID=America/New_York:20250718T220000
+DTEND;TZID=America/New_York:20250718T230000
+SUMMARY:🎅 Rascal Does Not Dream of Santa Claus Episode 3
+DESCRIPTION:Rascal Does Not Dream of Santa Claus Episode 3 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:rascal-does-not-dream-of-santa-claus-s1-ep4@anime
+DTSTART;TZID=America/New_York:20250725T220000
+DTEND;TZID=America/New_York:20250725T230000
+SUMMARY:🎅 Rascal Does Not Dream of Santa Claus Episode 4
+DESCRIPTION:Rascal Does Not Dream of Santa Claus Episode 4 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:rascal-does-not-dream-of-santa-claus-s1-ep5@anime
+DTSTART;TZID=America/New_York:20250801T220000
+DTEND;TZID=America/New_York:20250801T230000
+SUMMARY:🎅 Rascal Does Not Dream of Santa Claus Episode 5
+DESCRIPTION:Rascal Does Not Dream of Santa Claus Episode 5 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:rascal-does-not-dream-of-santa-claus-s1-ep6@anime
+DTSTART;TZID=America/New_York:20250808T220000
+DTEND;TZID=America/New_York:20250808T230000
+SUMMARY:🎅 Rascal Does Not Dream of Santa Claus Episode 6
+DESCRIPTION:Rascal Does Not Dream of Santa Claus Episode 6 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:rascal-does-not-dream-of-santa-claus-s1-ep7@anime
+DTSTART;TZID=America/New_York:20250815T220000
+DTEND;TZID=America/New_York:20250815T230000
+SUMMARY:🎅 Rascal Does Not Dream of Santa Claus Episode 7
+DESCRIPTION:Rascal Does Not Dream of Santa Claus Episode 7 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:rascal-does-not-dream-of-santa-claus-s1-ep8@anime
+DTSTART;TZID=America/New_York:20250822T220000
+DTEND;TZID=America/New_York:20250822T230000
+SUMMARY:🎅 Rascal Does Not Dream of Santa Claus Episode 8
+DESCRIPTION:Rascal Does Not Dream of Santa Claus Episode 8 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:rascal-does-not-dream-of-santa-claus-s1-ep9@anime
+DTSTART;TZID=America/New_York:20250829T220000
+DTEND;TZID=America/New_York:20250829T230000
+SUMMARY:🎅 Rascal Does Not Dream of Santa Claus Episode 9
+DESCRIPTION:Rascal Does Not Dream of Santa Claus Episode 9 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:rascal-does-not-dream-of-santa-claus-s1-ep10@anime
+DTSTART;TZID=America/New_York:20250905T220000
+DTEND;TZID=America/New_York:20250905T230000
+SUMMARY:🎅 Rascal Does Not Dream of Santa Claus Episode 10
+DESCRIPTION:Rascal Does Not Dream of Santa Claus Episode 10 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:rascal-does-not-dream-of-santa-claus-s1-ep11@anime
+DTSTART;TZID=America/New_York:20250912T220000
+DTEND;TZID=America/New_York:20250912T230000
+SUMMARY:🎅 Rascal Does Not Dream of Santa Claus Episode 11
+DESCRIPTION:Rascal Does Not Dream of Santa Claus Episode 11 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:rascal-does-not-dream-of-santa-claus-s1-ep12@anime
+DTSTART;TZID=America/New_York:20250919T220000
+DTEND;TZID=America/New_York:20250919T230000
+SUMMARY:🎅 Rascal Does Not Dream of Santa Claus Episode 12
+DESCRIPTION:Rascal Does Not Dream of Santa Claus Episode 12 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:i-was-reincarnated-as-7th-prince-s2-ep1@anime
+DTSTART;TZID=America/New_York:20250704T190000
+DTEND;TZID=America/New_York:20250704T200000
 SUMMARY:👑 I Was Reincarnated as 7th Prince Season 2 Episode 1
-DESCRIPTION:I Was Reincarnated as 7th Prince S2 Episode 1
+DESCRIPTION:I Was Reincarnated as 7th Prince Season 2 Episode 1 airs today!
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
 DESCRIPTION:Episode airing now!
 END:VALARM
 END:VEVENT
-
-### Dress Up Darling Season 2
 BEGIN:VEVENT
-UID:dressupdarling-s2-1@anime
-DTSTART;TZID=America/New_York:20250704T000000
-DTEND;TZID=America/New_York:20250704T235900
-RRULE:FREQ=WEEKLY;COUNT=12
+UID:i-was-reincarnated-as-7th-prince-s2-ep2@anime
+DTSTART;TZID=America/New_York:20250711T190000
+DTEND;TZID=America/New_York:20250711T200000
+SUMMARY:👑 I Was Reincarnated as 7th Prince Season 2 Episode 2
+DESCRIPTION:I Was Reincarnated as 7th Prince Season 2 Episode 2 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:i-was-reincarnated-as-7th-prince-s2-ep3@anime
+DTSTART;TZID=America/New_York:20250718T190000
+DTEND;TZID=America/New_York:20250718T200000
+SUMMARY:👑 I Was Reincarnated as 7th Prince Season 2 Episode 3
+DESCRIPTION:I Was Reincarnated as 7th Prince Season 2 Episode 3 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:i-was-reincarnated-as-7th-prince-s2-ep4@anime
+DTSTART;TZID=America/New_York:20250725T190000
+DTEND;TZID=America/New_York:20250725T200000
+SUMMARY:👑 I Was Reincarnated as 7th Prince Season 2 Episode 4
+DESCRIPTION:I Was Reincarnated as 7th Prince Season 2 Episode 4 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:i-was-reincarnated-as-7th-prince-s2-ep5@anime
+DTSTART;TZID=America/New_York:20250801T190000
+DTEND;TZID=America/New_York:20250801T200000
+SUMMARY:👑 I Was Reincarnated as 7th Prince Season 2 Episode 5
+DESCRIPTION:I Was Reincarnated as 7th Prince Season 2 Episode 5 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:i-was-reincarnated-as-7th-prince-s2-ep6@anime
+DTSTART;TZID=America/New_York:20250808T190000
+DTEND;TZID=America/New_York:20250808T200000
+SUMMARY:👑 I Was Reincarnated as 7th Prince Season 2 Episode 6
+DESCRIPTION:I Was Reincarnated as 7th Prince Season 2 Episode 6 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:i-was-reincarnated-as-7th-prince-s2-ep7@anime
+DTSTART;TZID=America/New_York:20250815T190000
+DTEND;TZID=America/New_York:20250815T200000
+SUMMARY:👑 I Was Reincarnated as 7th Prince Season 2 Episode 7
+DESCRIPTION:I Was Reincarnated as 7th Prince Season 2 Episode 7 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:i-was-reincarnated-as-7th-prince-s2-ep8@anime
+DTSTART;TZID=America/New_York:20250822T190000
+DTEND;TZID=America/New_York:20250822T200000
+SUMMARY:👑 I Was Reincarnated as 7th Prince Season 2 Episode 8
+DESCRIPTION:I Was Reincarnated as 7th Prince Season 2 Episode 8 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:i-was-reincarnated-as-7th-prince-s2-ep9@anime
+DTSTART;TZID=America/New_York:20250829T190000
+DTEND;TZID=America/New_York:20250829T200000
+SUMMARY:👑 I Was Reincarnated as 7th Prince Season 2 Episode 9
+DESCRIPTION:I Was Reincarnated as 7th Prince Season 2 Episode 9 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:i-was-reincarnated-as-7th-prince-s2-ep10@anime
+DTSTART;TZID=America/New_York:20250905T190000
+DTEND;TZID=America/New_York:20250905T200000
+SUMMARY:👑 I Was Reincarnated as 7th Prince Season 2 Episode 10
+DESCRIPTION:I Was Reincarnated as 7th Prince Season 2 Episode 10 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:i-was-reincarnated-as-7th-prince-s2-ep11@anime
+DTSTART;TZID=America/New_York:20250912T190000
+DTEND;TZID=America/New_York:20250912T200000
+SUMMARY:👑 I Was Reincarnated as 7th Prince Season 2 Episode 11
+DESCRIPTION:I Was Reincarnated as 7th Prince Season 2 Episode 11 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:i-was-reincarnated-as-7th-prince-s2-ep12@anime
+DTSTART;TZID=America/New_York:20250919T190000
+DTEND;TZID=America/New_York:20250919T200000
+SUMMARY:👑 I Was Reincarnated as 7th Prince Season 2 Episode 12
+DESCRIPTION:I Was Reincarnated as 7th Prince Season 2 Episode 12 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dress-up-darling-s2-ep1@anime
+DTSTART;TZID=America/New_York:20250704T203000
+DTEND;TZID=America/New_York:20250704T213000
 SUMMARY:👒 Dress Up Darling Season 2 Episode 1
-DESCRIPTION:Dress Up Darling S2 Episode 1
+DESCRIPTION:Dress Up Darling Season 2 Episode 1 airs today!
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
 DESCRIPTION:Episode airing now!
 END:VALARM
 END:VEVENT
-
-### Chainsaw Man Reze Arc
 BEGIN:VEVENT
-UID:chainsawman-reze-1@anime
-DTSTART;TZID=America/New_York:20250704T000000
-DTEND;TZID=America/New_York:20250704T235900
-RRULE:FREQ=WEEKLY;COUNT=12
-SUMMARY:🪚 Chainsaw Man Reze Arc Episode 1
-DESCRIPTION:Chainsaw Man Reze Arc Episode 1
+UID:dress-up-darling-s2-ep2@anime
+DTSTART;TZID=America/New_York:20250711T203000
+DTEND;TZID=America/New_York:20250711T213000
+SUMMARY:👒 Dress Up Darling Season 2 Episode 2
+DESCRIPTION:Dress Up Darling Season 2 Episode 2 airs today!
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
 DESCRIPTION:Episode airing now!
 END:VALARM
 END:VEVENT
-
-### Kaiju No. 8 Season 2
 BEGIN:VEVENT
-UID:kaijuno8-s2-1@anime
-DTSTART;TZID=America/New_York:20250704T000000
-DTEND;TZID=America/New_York:20250704T235900
-RRULE:FREQ=WEEKLY;COUNT=12
-SUMMARY:💠 Kaiju No. 8 Season 2 Episode 1
-DESCRIPTION:Kaiju No. 8 S2 Episode 1
+UID:dress-up-darling-s2-ep3@anime
+DTSTART;TZID=America/New_York:20250718T203000
+DTEND;TZID=America/New_York:20250718T213000
+SUMMARY:👒 Dress Up Darling Season 2 Episode 3
+DESCRIPTION:Dress Up Darling Season 2 Episode 3 airs today!
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
 DESCRIPTION:Episode airing now!
 END:VALARM
 END:VEVENT
-
-### Spy x Family Season 3
 BEGIN:VEVENT
-UID:spyxfamily-s3-1@anime
-DTSTART;TZID=America/New_York:20250704T000000
-DTEND;TZID=America/New_York:20250704T235900
-RRULE:FREQ=WEEKLY;COUNT=12
-SUMMARY:🕵️ Spy x Family Season 3 Episode 1
-DESCRIPTION:Spy x Family S3 Episode 1
+UID:dress-up-darling-s2-ep4@anime
+DTSTART;TZID=America/New_York:20250725T203000
+DTEND;TZID=America/New_York:20250725T213000
+SUMMARY:👒 Dress Up Darling Season 2 Episode 4
+DESCRIPTION:Dress Up Darling Season 2 Episode 4 airs today!
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
 DESCRIPTION:Episode airing now!
 END:VALARM
 END:VEVENT
-
-### Demon Slayer: Infinity Castle
 BEGIN:VEVENT
-UID:demonslayer-infinitycastle-1@anime
-DTSTART;TZID=America/New_York:20250705T000000
-DTEND;TZID=America/New_York:20250705T235900
-RRULE:FREQ=WEEKLY;COUNT=12
-SUMMARY:🔥 Demon Slayer: Infinity Castle Episode 1
-DESCRIPTION:Demon Slayer: Infinity Castle Episode 1
+UID:dress-up-darling-s2-ep5@anime
+DTSTART;TZID=America/New_York:20250801T203000
+DTEND;TZID=America/New_York:20250801T213000
+SUMMARY:👒 Dress Up Darling Season 2 Episode 5
+DESCRIPTION:Dress Up Darling Season 2 Episode 5 airs today!
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
 DESCRIPTION:Episode airing now!
 END:VALARM
 END:VEVENT
-
-### Jujutsu Kaisen: Hidden Inventory Movie
 BEGIN:VEVENT
-UID:jujutsukaisen-hiddeninventory-movie@anime
-DTSTART;TZID=America/New_York:20250705T000000
-DTEND;TZID=America/New_York:20250705T235900
-SUMMARY:🩸 Jujutsu Kaisen: Hidden Inventory Movie Release
-DESCRIPTION:Jujutsu Kaisen: Hidden Inventory Movie Release
-BEGIN:VALARM
-TRIGGER:-PT0M
-ACTION:DISPLAY
-DESCRIPTION:Movie releasing now!
-END:VALARM
-END:VEVENT
-
-### Gachiakuta
-BEGIN:VEVENT
-UID:gachiakuta-1@anime
-DTSTART;TZID=America/New_York:20250705T000000
-DTEND;TZID=America/New_York:20250705T235900
-RRULE:FREQ=WEEKLY;COUNT=12
-SUMMARY:🗑️ Gachiakuta Episode 1
-DESCRIPTION:Gachiakuta Episode 1
+UID:dress-up-darling-s2-ep6@anime
+DTSTART;TZID=America/New_York:20250808T203000
+DTEND;TZID=America/New_York:20250808T213000
+SUMMARY:👒 Dress Up Darling Season 2 Episode 6
+DESCRIPTION:Dress Up Darling Season 2 Episode 6 airs today!
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
 DESCRIPTION:Episode airing now!
 END:VALARM
 END:VEVENT
-
-### Takopi's Original Sin
 BEGIN:VEVENT
-UID:takopisoriginalsin-1@anime
-DTSTART;TZID=America/New_York:20250705T000000
-DTEND;TZID=America/New_York:20250705T235900
-RRULE:FREQ=WEEKLY;COUNT=12
-SUMMARY:🐙 Takopi's Original Sin Episode 1
-DESCRIPTION:Takopi's Original Sin Episode 1
+UID:dress-up-darling-s2-ep7@anime
+DTSTART;TZID=America/New_York:20250815T203000
+DTEND;TZID=America/New_York:20250815T213000
+SUMMARY:👒 Dress Up Darling Season 2 Episode 7
+DESCRIPTION:Dress Up Darling Season 2 Episode 7 airs today!
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
 DESCRIPTION:Episode airing now!
 END:VALARM
 END:VEVENT
-
-### Secrets of the Silent Witch
 BEGIN:VEVENT
-UID:secretsofthesilentwitch-1@anime
-DTSTART;TZID=America/New_York:20250705T000000
-DTEND;TZID=America/New_York:20250705T235900
-RRULE:FREQ=WEEKLY;COUNT=12
-SUMMARY:🧙 Secrets of the Silent Witch Episode 1
-DESCRIPTION:Secrets of the Silent Witch Episode 1
+UID:dress-up-darling-s2-ep8@anime
+DTSTART;TZID=America/New_York:20250822T203000
+DTEND;TZID=America/New_York:20250822T213000
+SUMMARY:👒 Dress Up Darling Season 2 Episode 8
+DESCRIPTION:Dress Up Darling Season 2 Episode 8 airs today!
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
 DESCRIPTION:Episode airing now!
 END:VALARM
 END:VEVENT
-
-### Watari-kun's ****** Is About to Collapse
 BEGIN:VEVENT
-UID:watari-1@anime
-DTSTART;TZID=America/New_York:20250705T000000
-DTEND;TZID=America/New_York:20250705T235900
-RRULE:FREQ=WEEKLY;COUNT=12
-SUMMARY:💔 Watari-kun's ****** Is About to Collapse Episode 1
-DESCRIPTION:Watari-kun's ****** Is About to Collapse Episode 1
+UID:dress-up-darling-s2-ep9@anime
+DTSTART;TZID=America/New_York:20250829T203000
+DTEND;TZID=America/New_York:20250829T213000
+SUMMARY:👒 Dress Up Darling Season 2 Episode 9
+DESCRIPTION:Dress Up Darling Season 2 Episode 9 airs today!
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
 DESCRIPTION:Episode airing now!
 END:VALARM
 END:VEVENT
-
-### Grand Blue Dreaming Season 2
 BEGIN:VEVENT
-UID:grandblue-s2-1@anime
-DTSTART;TZID=America/New_York:20250705T000000
-DTEND;TZID=America/New_York:20250705T235900
-RRULE:FREQ=WEEKLY;COUNT=12
-SUMMARY:🍻 Grand Blue Dreaming Season 2 Episode 1
-DESCRIPTION:Grand Blue Dreaming S2 Episode 1
+UID:dress-up-darling-s2-ep10@anime
+DTSTART;TZID=America/New_York:20250905T203000
+DTEND;TZID=America/New_York:20250905T213000
+SUMMARY:👒 Dress Up Darling Season 2 Episode 10
+DESCRIPTION:Dress Up Darling Season 2 Episode 10 airs today!
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
 DESCRIPTION:Episode airing now!
 END:VALARM
 END:VEVENT
-
-### A Couple of Cuckoos Season 2
 BEGIN:VEVENT
-UID:coupleofcuckoos-s2-1@anime
-DTSTART;TZID=America/New_York:20250705T000000
-DTEND;TZID=America/New_York:20250705T235900
-RRULE:FREQ=WEEKLY;COUNT=12
-SUMMARY:🐦 A Couple of Cuckoos Season 2 Episode 1
-DESCRIPTION:A Couple of Cuckoos S2 Episode 1
+UID:dress-up-darling-s2-ep11@anime
+DTSTART;TZID=America/New_York:20250912T203000
+DTEND;TZID=America/New_York:20250912T213000
+SUMMARY:👒 Dress Up Darling Season 2 Episode 11
+DESCRIPTION:Dress Up Darling Season 2 Episode 11 airs today!
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
 DESCRIPTION:Episode airing now!
 END:VALARM
 END:VEVENT
-
-### To Be Hero X (Saturdays 8:30 PM Eastern)
 BEGIN:VEVENT
-UID:tobeherox-1@anime
+UID:dress-up-darling-s2-ep12@anime
+DTSTART;TZID=America/New_York:20250919T203000
+DTEND;TZID=America/New_York:20250919T213000
+SUMMARY:👒 Dress Up Darling Season 2 Episode 12
+DESCRIPTION:Dress Up Darling Season 2 Episode 12 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chainsaw-man-reze-arc-s1-ep1@anime
+DTSTART;TZID=America/New_York:20250705T213000
+DTEND;TZID=America/New_York:20250705T223000
+SUMMARY:🔪 Chainsaw Man Reze Arc Episode 1
+DESCRIPTION:Chainsaw Man Reze Arc Episode 1 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chainsaw-man-reze-arc-s1-ep2@anime
+DTSTART;TZID=America/New_York:20250712T213000
+DTEND;TZID=America/New_York:20250712T223000
+SUMMARY:🔪 Chainsaw Man Reze Arc Episode 2
+DESCRIPTION:Chainsaw Man Reze Arc Episode 2 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chainsaw-man-reze-arc-s1-ep3@anime
+DTSTART;TZID=America/New_York:20250719T213000
+DTEND;TZID=America/New_York:20250719T223000
+SUMMARY:🔪 Chainsaw Man Reze Arc Episode 3
+DESCRIPTION:Chainsaw Man Reze Arc Episode 3 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chainsaw-man-reze-arc-s1-ep4@anime
+DTSTART;TZID=America/New_York:20250726T213000
+DTEND;TZID=America/New_York:20250726T223000
+SUMMARY:🔪 Chainsaw Man Reze Arc Episode 4
+DESCRIPTION:Chainsaw Man Reze Arc Episode 4 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chainsaw-man-reze-arc-s1-ep5@anime
+DTSTART;TZID=America/New_York:20250802T213000
+DTEND;TZID=America/New_York:20250802T223000
+SUMMARY:🔪 Chainsaw Man Reze Arc Episode 5
+DESCRIPTION:Chainsaw Man Reze Arc Episode 5 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chainsaw-man-reze-arc-s1-ep6@anime
+DTSTART;TZID=America/New_York:20250809T213000
+DTEND;TZID=America/New_York:20250809T223000
+SUMMARY:🔪 Chainsaw Man Reze Arc Episode 6
+DESCRIPTION:Chainsaw Man Reze Arc Episode 6 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chainsaw-man-reze-arc-s1-ep7@anime
+DTSTART;TZID=America/New_York:20250816T213000
+DTEND;TZID=America/New_York:20250816T223000
+SUMMARY:🔪 Chainsaw Man Reze Arc Episode 7
+DESCRIPTION:Chainsaw Man Reze Arc Episode 7 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chainsaw-man-reze-arc-s1-ep8@anime
+DTSTART;TZID=America/New_York:20250823T213000
+DTEND;TZID=America/New_York:20250823T223000
+SUMMARY:🔪 Chainsaw Man Reze Arc Episode 8
+DESCRIPTION:Chainsaw Man Reze Arc Episode 8 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chainsaw-man-reze-arc-s1-ep9@anime
+DTSTART;TZID=America/New_York:20250830T213000
+DTEND;TZID=America/New_York:20250830T223000
+SUMMARY:🔪 Chainsaw Man Reze Arc Episode 9
+DESCRIPTION:Chainsaw Man Reze Arc Episode 9 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chainsaw-man-reze-arc-s1-ep10@anime
+DTSTART;TZID=America/New_York:20250906T213000
+DTEND;TZID=America/New_York:20250906T223000
+SUMMARY:🔪 Chainsaw Man Reze Arc Episode 10
+DESCRIPTION:Chainsaw Man Reze Arc Episode 10 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chainsaw-man-reze-arc-s1-ep11@anime
+DTSTART;TZID=America/New_York:20250913T213000
+DTEND;TZID=America/New_York:20250913T223000
+SUMMARY:🔪 Chainsaw Man Reze Arc Episode 11
+DESCRIPTION:Chainsaw Man Reze Arc Episode 11 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chainsaw-man-reze-arc-s1-ep12@anime
+DTSTART;TZID=America/New_York:20250920T213000
+DTEND;TZID=America/New_York:20250920T223000
+SUMMARY:🔪 Chainsaw Man Reze Arc Episode 12
+DESCRIPTION:Chainsaw Man Reze Arc Episode 12 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kaiju-no-8-s2-ep1@anime
+DTSTART;TZID=America/New_York:20250704T200000
+DTEND;TZID=America/New_York:20250704T210000
+SUMMARY:💠 Kaiju No 8 Season 2 Episode 1
+DESCRIPTION:Kaiju No 8 Season 2 Episode 1 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kaiju-no-8-s2-ep2@anime
+DTSTART;TZID=America/New_York:20250711T200000
+DTEND;TZID=America/New_York:20250711T210000
+SUMMARY:💠 Kaiju No 8 Season 2 Episode 2
+DESCRIPTION:Kaiju No 8 Season 2 Episode 2 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kaiju-no-8-s2-ep3@anime
+DTSTART;TZID=America/New_York:20250718T200000
+DTEND;TZID=America/New_York:20250718T210000
+SUMMARY:💠 Kaiju No 8 Season 2 Episode 3
+DESCRIPTION:Kaiju No 8 Season 2 Episode 3 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kaiju-no-8-s2-ep4@anime
+DTSTART;TZID=America/New_York:20250725T200000
+DTEND;TZID=America/New_York:20250725T210000
+SUMMARY:💠 Kaiju No 8 Season 2 Episode 4
+DESCRIPTION:Kaiju No 8 Season 2 Episode 4 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kaiju-no-8-s2-ep5@anime
+DTSTART;TZID=America/New_York:20250801T200000
+DTEND;TZID=America/New_York:20250801T210000
+SUMMARY:💠 Kaiju No 8 Season 2 Episode 5
+DESCRIPTION:Kaiju No 8 Season 2 Episode 5 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kaiju-no-8-s2-ep6@anime
+DTSTART;TZID=America/New_York:20250808T200000
+DTEND;TZID=America/New_York:20250808T210000
+SUMMARY:💠 Kaiju No 8 Season 2 Episode 6
+DESCRIPTION:Kaiju No 8 Season 2 Episode 6 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kaiju-no-8-s2-ep7@anime
+DTSTART;TZID=America/New_York:20250815T200000
+DTEND;TZID=America/New_York:20250815T210000
+SUMMARY:💠 Kaiju No 8 Season 2 Episode 7
+DESCRIPTION:Kaiju No 8 Season 2 Episode 7 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kaiju-no-8-s2-ep8@anime
+DTSTART;TZID=America/New_York:20250822T200000
+DTEND;TZID=America/New_York:20250822T210000
+SUMMARY:💠 Kaiju No 8 Season 2 Episode 8
+DESCRIPTION:Kaiju No 8 Season 2 Episode 8 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kaiju-no-8-s2-ep9@anime
+DTSTART;TZID=America/New_York:20250829T200000
+DTEND;TZID=America/New_York:20250829T210000
+SUMMARY:💠 Kaiju No 8 Season 2 Episode 9
+DESCRIPTION:Kaiju No 8 Season 2 Episode 9 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kaiju-no-8-s2-ep10@anime
+DTSTART;TZID=America/New_York:20250905T200000
+DTEND;TZID=America/New_York:20250905T210000
+SUMMARY:💠 Kaiju No 8 Season 2 Episode 10
+DESCRIPTION:Kaiju No 8 Season 2 Episode 10 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kaiju-no-8-s2-ep11@anime
+DTSTART;TZID=America/New_York:20250912T200000
+DTEND;TZID=America/New_York:20250912T210000
+SUMMARY:💠 Kaiju No 8 Season 2 Episode 11
+DESCRIPTION:Kaiju No 8 Season 2 Episode 11 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kaiju-no-8-s2-ep12@anime
+DTSTART;TZID=America/New_York:20250919T200000
+DTEND;TZID=America/New_York:20250919T210000
+SUMMARY:💠 Kaiju No 8 Season 2 Episode 12
+DESCRIPTION:Kaiju No 8 Season 2 Episode 12 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-x-family-s3-ep1@anime
+DTSTART;TZID=America/New_York:20250705T200000
+DTEND;TZID=America/New_York:20250705T210000
+SUMMARY:🕵️‍♂️ Spy x Family Season 3 Episode 1
+DESCRIPTION:Spy x Family Season 3 Episode 1 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-x-family-s3-ep2@anime
+DTSTART;TZID=America/New_York:20250712T200000
+DTEND;TZID=America/New_York:20250712T210000
+SUMMARY:🕵️‍♂️ Spy x Family Season 3 Episode 2
+DESCRIPTION:Spy x Family Season 3 Episode 2 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-x-family-s3-ep3@anime
+DTSTART;TZID=America/New_York:20250719T200000
+DTEND;TZID=America/New_York:20250719T210000
+SUMMARY:🕵️‍♂️ Spy x Family Season 3 Episode 3
+DESCRIPTION:Spy x Family Season 3 Episode 3 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-x-family-s3-ep4@anime
+DTSTART;TZID=America/New_York:20250726T200000
+DTEND;TZID=America/New_York:20250726T210000
+SUMMARY:🕵️‍♂️ Spy x Family Season 3 Episode 4
+DESCRIPTION:Spy x Family Season 3 Episode 4 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-x-family-s3-ep5@anime
+DTSTART;TZID=America/New_York:20250802T200000
+DTEND;TZID=America/New_York:20250802T210000
+SUMMARY:🕵️‍♂️ Spy x Family Season 3 Episode 5
+DESCRIPTION:Spy x Family Season 3 Episode 5 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-x-family-s3-ep6@anime
+DTSTART;TZID=America/New_York:20250809T200000
+DTEND;TZID=America/New_York:20250809T210000
+SUMMARY:🕵️‍♂️ Spy x Family Season 3 Episode 6
+DESCRIPTION:Spy x Family Season 3 Episode 6 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-x-family-s3-ep7@anime
+DTSTART;TZID=America/New_York:20250816T200000
+DTEND;TZID=America/New_York:20250816T210000
+SUMMARY:🕵️‍♂️ Spy x Family Season 3 Episode 7
+DESCRIPTION:Spy x Family Season 3 Episode 7 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-x-family-s3-ep8@anime
+DTSTART;TZID=America/New_York:20250823T200000
+DTEND;TZID=America/New_York:20250823T210000
+SUMMARY:🕵️‍♂️ Spy x Family Season 3 Episode 8
+DESCRIPTION:Spy x Family Season 3 Episode 8 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-x-family-s3-ep9@anime
+DTSTART;TZID=America/New_York:20250830T200000
+DTEND;TZID=America/New_York:20250830T210000
+SUMMARY:🕵️‍♂️ Spy x Family Season 3 Episode 9
+DESCRIPTION:Spy x Family Season 3 Episode 9 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-x-family-s3-ep10@anime
+DTSTART;TZID=America/New_York:20250906T200000
+DTEND;TZID=America/New_York:20250906T210000
+SUMMARY:🕵️‍♂️ Spy x Family Season 3 Episode 10
+DESCRIPTION:Spy x Family Season 3 Episode 10 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-x-family-s3-ep11@anime
+DTSTART;TZID=America/New_York:20250913T200000
+DTEND;TZID=America/New_York:20250913T210000
+SUMMARY:🕵️‍♂️ Spy x Family Season 3 Episode 11
+DESCRIPTION:Spy x Family Season 3 Episode 11 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-x-family-s3-ep12@anime
+DTSTART;TZID=America/New_York:20250920T200000
+DTEND;TZID=America/New_York:20250920T210000
+SUMMARY:🕵️‍♂️ Spy x Family Season 3 Episode 12
+DESCRIPTION:Spy x Family Season 3 Episode 12 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:demon-slayer-infinity-castle-1@anime
+DTSTART;TZID=America/New_York:20250704T210000
+DTEND;TZID=America/New_York:20250704T220000
+SUMMARY:😈 Demon Slayer: Infinity Castle Movie
+DESCRIPTION:Demon Slayer: Infinity Castle movie release
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jujutsu-kaisen-hidden-inventory-1@anime
+DTSTART;TZID=America/New_York:20250705T190000
+DTEND;TZID=America/New_York:20250705T200000
+SUMMARY:📽️ Jujutsu Kaisen: Hidden Inventory Movie
+DESCRIPTION:Jujutsu Kaisen: Hidden Inventory movie release
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gachiakuta-s1-ep1@anime
+DTSTART;TZID=America/New_York:20250704T200000
+DTEND;TZID=America/New_York:20250704T210000
+SUMMARY:🎭 Gachiakuta Episode 1
+DESCRIPTION:Gachiakuta Episode 1 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gachiakuta-s1-ep2@anime
+DTSTART;TZID=America/New_York:20250711T200000
+DTEND;TZID=America/New_York:20250711T210000
+SUMMARY:🎭 Gachiakuta Episode 2
+DESCRIPTION:Gachiakuta Episode 2 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gachiakuta-s1-ep3@anime
+DTSTART;TZID=America/New_York:20250718T200000
+DTEND;TZID=America/New_York:20250718T210000
+SUMMARY:🎭 Gachiakuta Episode 3
+DESCRIPTION:Gachiakuta Episode 3 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gachiakuta-s1-ep4@anime
+DTSTART;TZID=America/New_York:20250725T200000
+DTEND;TZID=America/New_York:20250725T210000
+SUMMARY:🎭 Gachiakuta Episode 4
+DESCRIPTION:Gachiakuta Episode 4 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gachiakuta-s1-ep5@anime
+DTSTART;TZID=America/New_York:20250801T200000
+DTEND;TZID=America/New_York:20250801T210000
+SUMMARY:🎭 Gachiakuta Episode 5
+DESCRIPTION:Gachiakuta Episode 5 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gachiakuta-s1-ep6@anime
+DTSTART;TZID=America/New_York:20250808T200000
+DTEND;TZID=America/New_York:20250808T210000
+SUMMARY:🎭 Gachiakuta Episode 6
+DESCRIPTION:Gachiakuta Episode 6 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gachiakuta-s1-ep7@anime
+DTSTART;TZID=America/New_York:20250815T200000
+DTEND;TZID=America/New_York:20250815T210000
+SUMMARY:🎭 Gachiakuta Episode 7
+DESCRIPTION:Gachiakuta Episode 7 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gachiakuta-s1-ep8@anime
+DTSTART;TZID=America/New_York:20250822T200000
+DTEND;TZID=America/New_York:20250822T210000
+SUMMARY:🎭 Gachiakuta Episode 8
+DESCRIPTION:Gachiakuta Episode 8 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gachiakuta-s1-ep9@anime
+DTSTART;TZID=America/New_York:20250829T200000
+DTEND;TZID=America/New_York:20250829T210000
+SUMMARY:🎭 Gachiakuta Episode 9
+DESCRIPTION:Gachiakuta Episode 9 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gachiakuta-s1-ep10@anime
+DTSTART;TZID=America/New_York:20250905T200000
+DTEND;TZID=America/New_York:20250905T210000
+SUMMARY:🎭 Gachiakuta Episode 10
+DESCRIPTION:Gachiakuta Episode 10 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gachiakuta-s1-ep11@anime
+DTSTART;TZID=America/New_York:20250912T200000
+DTEND;TZID=America/New_York:20250912T210000
+SUMMARY:🎭 Gachiakuta Episode 11
+DESCRIPTION:Gachiakuta Episode 11 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gachiakuta-s1-ep12@anime
+DTSTART;TZID=America/New_York:20250919T200000
+DTEND;TZID=America/New_York:20250919T210000
+SUMMARY:🎭 Gachiakuta Episode 12
+DESCRIPTION:Gachiakuta Episode 12 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:takopi's-original-sin-s1-ep1@anime
+DTSTART;TZID=America/New_York:20250705T200000
+DTEND;TZID=America/New_York:20250705T210000
+SUMMARY:🕊️ Takopi's Original Sin Episode 1
+DESCRIPTION:Takopi's Original Sin Episode 1 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:takopi's-original-sin-s1-ep2@anime
+DTSTART;TZID=America/New_York:20250712T200000
+DTEND;TZID=America/New_York:20250712T210000
+SUMMARY:🕊️ Takopi's Original Sin Episode 2
+DESCRIPTION:Takopi's Original Sin Episode 2 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:takopi's-original-sin-s1-ep3@anime
+DTSTART;TZID=America/New_York:20250719T200000
+DTEND;TZID=America/New_York:20250719T210000
+SUMMARY:🕊️ Takopi's Original Sin Episode 3
+DESCRIPTION:Takopi's Original Sin Episode 3 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:takopi's-original-sin-s1-ep4@anime
+DTSTART;TZID=America/New_York:20250726T200000
+DTEND;TZID=America/New_York:20250726T210000
+SUMMARY:🕊️ Takopi's Original Sin Episode 4
+DESCRIPTION:Takopi's Original Sin Episode 4 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:takopi's-original-sin-s1-ep5@anime
+DTSTART;TZID=America/New_York:20250802T200000
+DTEND;TZID=America/New_York:20250802T210000
+SUMMARY:🕊️ Takopi's Original Sin Episode 5
+DESCRIPTION:Takopi's Original Sin Episode 5 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:takopi's-original-sin-s1-ep6@anime
+DTSTART;TZID=America/New_York:20250809T200000
+DTEND;TZID=America/New_York:20250809T210000
+SUMMARY:🕊️ Takopi's Original Sin Episode 6
+DESCRIPTION:Takopi's Original Sin Episode 6 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:takopi's-original-sin-s1-ep7@anime
+DTSTART;TZID=America/New_York:20250816T200000
+DTEND;TZID=America/New_York:20250816T210000
+SUMMARY:🕊️ Takopi's Original Sin Episode 7
+DESCRIPTION:Takopi's Original Sin Episode 7 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:takopi's-original-sin-s1-ep8@anime
+DTSTART;TZID=America/New_York:20250823T200000
+DTEND;TZID=America/New_York:20250823T210000
+SUMMARY:🕊️ Takopi's Original Sin Episode 8
+DESCRIPTION:Takopi's Original Sin Episode 8 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:takopi's-original-sin-s1-ep9@anime
+DTSTART;TZID=America/New_York:20250830T200000
+DTEND;TZID=America/New_York:20250830T210000
+SUMMARY:🕊️ Takopi's Original Sin Episode 9
+DESCRIPTION:Takopi's Original Sin Episode 9 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:takopi's-original-sin-s1-ep10@anime
+DTSTART;TZID=America/New_York:20250906T200000
+DTEND;TZID=America/New_York:20250906T210000
+SUMMARY:🕊️ Takopi's Original Sin Episode 10
+DESCRIPTION:Takopi's Original Sin Episode 10 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:takopi's-original-sin-s1-ep11@anime
+DTSTART;TZID=America/New_York:20250913T200000
+DTEND;TZID=America/New_York:20250913T210000
+SUMMARY:🕊️ Takopi's Original Sin Episode 11
+DESCRIPTION:Takopi's Original Sin Episode 11 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:takopi's-original-sin-s1-ep12@anime
+DTSTART;TZID=America/New_York:20250920T200000
+DTEND;TZID=America/New_York:20250920T210000
+SUMMARY:🕊️ Takopi's Original Sin Episode 12
+DESCRIPTION:Takopi's Original Sin Episode 12 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:secrets-of-the-silent-witch-s1-ep1@anime
+DTSTART;TZID=America/New_York:20250705T210000
+DTEND;TZID=America/New_York:20250705T220000
+SUMMARY:🧙‍♀️ Secrets of the Silent Witch Episode 1
+DESCRIPTION:Secrets of the Silent Witch Episode 1 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:secrets-of-the-silent-witch-s1-ep2@anime
+DTSTART;TZID=America/New_York:20250712T210000
+DTEND;TZID=America/New_York:20250712T220000
+SUMMARY:🧙‍♀️ Secrets of the Silent Witch Episode 2
+DESCRIPTION:Secrets of the Silent Witch Episode 2 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:secrets-of-the-silent-witch-s1-ep3@anime
+DTSTART;TZID=America/New_York:20250719T210000
+DTEND;TZID=America/New_York:20250719T220000
+SUMMARY:🧙‍♀️ Secrets of the Silent Witch Episode 3
+DESCRIPTION:Secrets of the Silent Witch Episode 3 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:secrets-of-the-silent-witch-s1-ep4@anime
+DTSTART;TZID=America/New_York:20250726T210000
+DTEND;TZID=America/New_York:20250726T220000
+SUMMARY:🧙‍♀️ Secrets of the Silent Witch Episode 4
+DESCRIPTION:Secrets of the Silent Witch Episode 4 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:secrets-of-the-silent-witch-s1-ep5@anime
+DTSTART;TZID=America/New_York:20250802T210000
+DTEND;TZID=America/New_York:20250802T220000
+SUMMARY:🧙‍♀️ Secrets of the Silent Witch Episode 5
+DESCRIPTION:Secrets of the Silent Witch Episode 5 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:secrets-of-the-silent-witch-s1-ep6@anime
+DTSTART;TZID=America/New_York:20250809T210000
+DTEND;TZID=America/New_York:20250809T220000
+SUMMARY:🧙‍♀️ Secrets of the Silent Witch Episode 6
+DESCRIPTION:Secrets of the Silent Witch Episode 6 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:secrets-of-the-silent-witch-s1-ep7@anime
+DTSTART;TZID=America/New_York:20250816T210000
+DTEND;TZID=America/New_York:20250816T220000
+SUMMARY:🧙‍♀️ Secrets of the Silent Witch Episode 7
+DESCRIPTION:Secrets of the Silent Witch Episode 7 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:secrets-of-the-silent-witch-s1-ep8@anime
+DTSTART;TZID=America/New_York:20250823T210000
+DTEND;TZID=America/New_York:20250823T220000
+SUMMARY:🧙‍♀️ Secrets of the Silent Witch Episode 8
+DESCRIPTION:Secrets of the Silent Witch Episode 8 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:secrets-of-the-silent-witch-s1-ep9@anime
+DTSTART;TZID=America/New_York:20250830T210000
+DTEND;TZID=America/New_York:20250830T220000
+SUMMARY:🧙‍♀️ Secrets of the Silent Witch Episode 9
+DESCRIPTION:Secrets of the Silent Witch Episode 9 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:secrets-of-the-silent-witch-s1-ep10@anime
+DTSTART;TZID=America/New_York:20250906T210000
+DTEND;TZID=America/New_York:20250906T220000
+SUMMARY:🧙‍♀️ Secrets of the Silent Witch Episode 10
+DESCRIPTION:Secrets of the Silent Witch Episode 10 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:secrets-of-the-silent-witch-s1-ep11@anime
+DTSTART;TZID=America/New_York:20250913T210000
+DTEND;TZID=America/New_York:20250913T220000
+SUMMARY:🧙‍♀️ Secrets of the Silent Witch Episode 11
+DESCRIPTION:Secrets of the Silent Witch Episode 11 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:secrets-of-the-silent-witch-s1-ep12@anime
+DTSTART;TZID=America/New_York:20250920T210000
+DTEND;TZID=America/New_York:20250920T220000
+SUMMARY:🧙‍♀️ Secrets of the Silent Witch Episode 12
+DESCRIPTION:Secrets of the Silent Witch Episode 12 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:watari-kun's-******-is-about-to-collapse-s1-ep1@anime
+DTSTART;TZID=America/New_York:20250704T190000
+DTEND;TZID=America/New_York:20250704T200000
+SUMMARY:💥 Watari-kun's ****** Is About to Collapse Episode 1
+DESCRIPTION:Watari-kun's ****** Is About to Collapse Episode 1 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:watari-kun's-******-is-about-to-collapse-s1-ep2@anime
+DTSTART;TZID=America/New_York:20250711T190000
+DTEND;TZID=America/New_York:20250711T200000
+SUMMARY:💥 Watari-kun's ****** Is About to Collapse Episode 2
+DESCRIPTION:Watari-kun's ****** Is About to Collapse Episode 2 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:watari-kun's-******-is-about-to-collapse-s1-ep3@anime
+DTSTART;TZID=America/New_York:20250718T190000
+DTEND;TZID=America/New_York:20250718T200000
+SUMMARY:💥 Watari-kun's ****** Is About to Collapse Episode 3
+DESCRIPTION:Watari-kun's ****** Is About to Collapse Episode 3 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:watari-kun's-******-is-about-to-collapse-s1-ep4@anime
+DTSTART;TZID=America/New_York:20250725T190000
+DTEND;TZID=America/New_York:20250725T200000
+SUMMARY:💥 Watari-kun's ****** Is About to Collapse Episode 4
+DESCRIPTION:Watari-kun's ****** Is About to Collapse Episode 4 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:watari-kun's-******-is-about-to-collapse-s1-ep5@anime
+DTSTART;TZID=America/New_York:20250801T190000
+DTEND;TZID=America/New_York:20250801T200000
+SUMMARY:💥 Watari-kun's ****** Is About to Collapse Episode 5
+DESCRIPTION:Watari-kun's ****** Is About to Collapse Episode 5 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:watari-kun's-******-is-about-to-collapse-s1-ep6@anime
+DTSTART;TZID=America/New_York:20250808T190000
+DTEND;TZID=America/New_York:20250808T200000
+SUMMARY:💥 Watari-kun's ****** Is About to Collapse Episode 6
+DESCRIPTION:Watari-kun's ****** Is About to Collapse Episode 6 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:watari-kun's-******-is-about-to-collapse-s1-ep7@anime
+DTSTART;TZID=America/New_York:20250815T190000
+DTEND;TZID=America/New_York:20250815T200000
+SUMMARY:💥 Watari-kun's ****** Is About to Collapse Episode 7
+DESCRIPTION:Watari-kun's ****** Is About to Collapse Episode 7 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:watari-kun's-******-is-about-to-collapse-s1-ep8@anime
+DTSTART;TZID=America/New_York:20250822T190000
+DTEND;TZID=America/New_York:20250822T200000
+SUMMARY:💥 Watari-kun's ****** Is About to Collapse Episode 8
+DESCRIPTION:Watari-kun's ****** Is About to Collapse Episode 8 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:watari-kun's-******-is-about-to-collapse-s1-ep9@anime
+DTSTART;TZID=America/New_York:20250829T190000
+DTEND;TZID=America/New_York:20250829T200000
+SUMMARY:💥 Watari-kun's ****** Is About to Collapse Episode 9
+DESCRIPTION:Watari-kun's ****** Is About to Collapse Episode 9 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:watari-kun's-******-is-about-to-collapse-s1-ep10@anime
+DTSTART;TZID=America/New_York:20250905T190000
+DTEND;TZID=America/New_York:20250905T200000
+SUMMARY:💥 Watari-kun's ****** Is About to Collapse Episode 10
+DESCRIPTION:Watari-kun's ****** Is About to Collapse Episode 10 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:watari-kun's-******-is-about-to-collapse-s1-ep11@anime
+DTSTART;TZID=America/New_York:20250912T190000
+DTEND;TZID=America/New_York:20250912T200000
+SUMMARY:💥 Watari-kun's ****** Is About to Collapse Episode 11
+DESCRIPTION:Watari-kun's ****** Is About to Collapse Episode 11 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:watari-kun's-******-is-about-to-collapse-s1-ep12@anime
+DTSTART;TZID=America/New_York:20250919T190000
+DTEND;TZID=America/New_York:20250919T200000
+SUMMARY:💥 Watari-kun's ****** Is About to Collapse Episode 12
+DESCRIPTION:Watari-kun's ****** Is About to Collapse Episode 12 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:grand-blue-dreaming-s2-ep1@anime
 DTSTART;TZID=America/New_York:20250705T203000
 DTEND;TZID=America/New_York:20250705T213000
-RRULE:FREQ=WEEKLY
-SUMMARY:🫰 To Be Hero X Episode 1
-DESCRIPTION:To Be Hero X Episode 1
+SUMMARY:🌊 Grand Blue Dreaming Season 2 Episode 1
+DESCRIPTION:Grand Blue Dreaming Season 2 Episode 1 airs today!
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
 DESCRIPTION:Episode airing now!
 END:VALARM
 END:VEVENT
-
-### Witch Watch (Sundays 8:00 AM Eastern)
 BEGIN:VEVENT
-UID:witchwatch-1@anime
+UID:grand-blue-dreaming-s2-ep2@anime
+DTSTART;TZID=America/New_York:20250712T203000
+DTEND;TZID=America/New_York:20250712T213000
+SUMMARY:🌊 Grand Blue Dreaming Season 2 Episode 2
+DESCRIPTION:Grand Blue Dreaming Season 2 Episode 2 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:grand-blue-dreaming-s2-ep3@anime
+DTSTART;TZID=America/New_York:20250719T203000
+DTEND;TZID=America/New_York:20250719T213000
+SUMMARY:🌊 Grand Blue Dreaming Season 2 Episode 3
+DESCRIPTION:Grand Blue Dreaming Season 2 Episode 3 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:grand-blue-dreaming-s2-ep4@anime
+DTSTART;TZID=America/New_York:20250726T203000
+DTEND;TZID=America/New_York:20250726T213000
+SUMMARY:🌊 Grand Blue Dreaming Season 2 Episode 4
+DESCRIPTION:Grand Blue Dreaming Season 2 Episode 4 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:grand-blue-dreaming-s2-ep5@anime
+DTSTART;TZID=America/New_York:20250802T203000
+DTEND;TZID=America/New_York:20250802T213000
+SUMMARY:🌊 Grand Blue Dreaming Season 2 Episode 5
+DESCRIPTION:Grand Blue Dreaming Season 2 Episode 5 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:grand-blue-dreaming-s2-ep6@anime
+DTSTART;TZID=America/New_York:20250809T203000
+DTEND;TZID=America/New_York:20250809T213000
+SUMMARY:🌊 Grand Blue Dreaming Season 2 Episode 6
+DESCRIPTION:Grand Blue Dreaming Season 2 Episode 6 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:grand-blue-dreaming-s2-ep7@anime
+DTSTART;TZID=America/New_York:20250816T203000
+DTEND;TZID=America/New_York:20250816T213000
+SUMMARY:🌊 Grand Blue Dreaming Season 2 Episode 7
+DESCRIPTION:Grand Blue Dreaming Season 2 Episode 7 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:grand-blue-dreaming-s2-ep8@anime
+DTSTART;TZID=America/New_York:20250823T203000
+DTEND;TZID=America/New_York:20250823T213000
+SUMMARY:🌊 Grand Blue Dreaming Season 2 Episode 8
+DESCRIPTION:Grand Blue Dreaming Season 2 Episode 8 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:grand-blue-dreaming-s2-ep9@anime
+DTSTART;TZID=America/New_York:20250830T203000
+DTEND;TZID=America/New_York:20250830T213000
+SUMMARY:🌊 Grand Blue Dreaming Season 2 Episode 9
+DESCRIPTION:Grand Blue Dreaming Season 2 Episode 9 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:grand-blue-dreaming-s2-ep10@anime
+DTSTART;TZID=America/New_York:20250906T203000
+DTEND;TZID=America/New_York:20250906T213000
+SUMMARY:🌊 Grand Blue Dreaming Season 2 Episode 10
+DESCRIPTION:Grand Blue Dreaming Season 2 Episode 10 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:grand-blue-dreaming-s2-ep11@anime
+DTSTART;TZID=America/New_York:20250913T203000
+DTEND;TZID=America/New_York:20250913T213000
+SUMMARY:🌊 Grand Blue Dreaming Season 2 Episode 11
+DESCRIPTION:Grand Blue Dreaming Season 2 Episode 11 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:grand-blue-dreaming-s2-ep12@anime
+DTSTART;TZID=America/New_York:20250920T203000
+DTEND;TZID=America/New_York:20250920T213000
+SUMMARY:🌊 Grand Blue Dreaming Season 2 Episode 12
+DESCRIPTION:Grand Blue Dreaming Season 2 Episode 12 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a-couple-of-cuckoos-s2-ep1@anime
+DTSTART;TZID=America/New_York:20250704T200000
+DTEND;TZID=America/New_York:20250704T210000
+SUMMARY:🐦 A Couple of Cuckoos Season 2 Episode 1
+DESCRIPTION:A Couple of Cuckoos Season 2 Episode 1 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a-couple-of-cuckoos-s2-ep2@anime
+DTSTART;TZID=America/New_York:20250711T200000
+DTEND;TZID=America/New_York:20250711T210000
+SUMMARY:🐦 A Couple of Cuckoos Season 2 Episode 2
+DESCRIPTION:A Couple of Cuckoos Season 2 Episode 2 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a-couple-of-cuckoos-s2-ep3@anime
+DTSTART;TZID=America/New_York:20250718T200000
+DTEND;TZID=America/New_York:20250718T210000
+SUMMARY:🐦 A Couple of Cuckoos Season 2 Episode 3
+DESCRIPTION:A Couple of Cuckoos Season 2 Episode 3 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a-couple-of-cuckoos-s2-ep4@anime
+DTSTART;TZID=America/New_York:20250725T200000
+DTEND;TZID=America/New_York:20250725T210000
+SUMMARY:🐦 A Couple of Cuckoos Season 2 Episode 4
+DESCRIPTION:A Couple of Cuckoos Season 2 Episode 4 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a-couple-of-cuckoos-s2-ep5@anime
+DTSTART;TZID=America/New_York:20250801T200000
+DTEND;TZID=America/New_York:20250801T210000
+SUMMARY:🐦 A Couple of Cuckoos Season 2 Episode 5
+DESCRIPTION:A Couple of Cuckoos Season 2 Episode 5 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a-couple-of-cuckoos-s2-ep6@anime
+DTSTART;TZID=America/New_York:20250808T200000
+DTEND;TZID=America/New_York:20250808T210000
+SUMMARY:🐦 A Couple of Cuckoos Season 2 Episode 6
+DESCRIPTION:A Couple of Cuckoos Season 2 Episode 6 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a-couple-of-cuckoos-s2-ep7@anime
+DTSTART;TZID=America/New_York:20250815T200000
+DTEND;TZID=America/New_York:20250815T210000
+SUMMARY:🐦 A Couple of Cuckoos Season 2 Episode 7
+DESCRIPTION:A Couple of Cuckoos Season 2 Episode 7 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a-couple-of-cuckoos-s2-ep8@anime
+DTSTART;TZID=America/New_York:20250822T200000
+DTEND;TZID=America/New_York:20250822T210000
+SUMMARY:🐦 A Couple of Cuckoos Season 2 Episode 8
+DESCRIPTION:A Couple of Cuckoos Season 2 Episode 8 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a-couple-of-cuckoos-s2-ep9@anime
+DTSTART;TZID=America/New_York:20250829T200000
+DTEND;TZID=America/New_York:20250829T210000
+SUMMARY:🐦 A Couple of Cuckoos Season 2 Episode 9
+DESCRIPTION:A Couple of Cuckoos Season 2 Episode 9 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a-couple-of-cuckoos-s2-ep10@anime
+DTSTART;TZID=America/New_York:20250905T200000
+DTEND;TZID=America/New_York:20250905T210000
+SUMMARY:🐦 A Couple of Cuckoos Season 2 Episode 10
+DESCRIPTION:A Couple of Cuckoos Season 2 Episode 10 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a-couple-of-cuckoos-s2-ep11@anime
+DTSTART;TZID=America/New_York:20250912T200000
+DTEND;TZID=America/New_York:20250912T210000
+SUMMARY:🐦 A Couple of Cuckoos Season 2 Episode 11
+DESCRIPTION:A Couple of Cuckoos Season 2 Episode 11 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a-couple-of-cuckoos-s2-ep12@anime
+DTSTART;TZID=America/New_York:20250919T200000
+DTEND;TZID=America/New_York:20250919T210000
+SUMMARY:🐦 A Couple of Cuckoos Season 2 Episode 12
+DESCRIPTION:A Couple of Cuckoos Season 2 Episode 12 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:to-be-hero-x-s1-ep1@anime
+DTSTART;TZID=America/New_York:20250705T203000
+DTEND;TZID=America/New_York:20250705T213000
+SUMMARY:🫰 To Be Hero X Episode 1
+DESCRIPTION:To Be Hero X Episode 1 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:to-be-hero-x-s1-ep2@anime
+DTSTART;TZID=America/New_York:20250712T203000
+DTEND;TZID=America/New_York:20250712T213000
+SUMMARY:🫰 To Be Hero X Episode 2
+DESCRIPTION:To Be Hero X Episode 2 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:to-be-hero-x-s1-ep3@anime
+DTSTART;TZID=America/New_York:20250719T203000
+DTEND;TZID=America/New_York:20250719T213000
+SUMMARY:🫰 To Be Hero X Episode 3
+DESCRIPTION:To Be Hero X Episode 3 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:to-be-hero-x-s1-ep4@anime
+DTSTART;TZID=America/New_York:20250726T203000
+DTEND;TZID=America/New_York:20250726T213000
+SUMMARY:🫰 To Be Hero X Episode 4
+DESCRIPTION:To Be Hero X Episode 4 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:to-be-hero-x-s1-ep5@anime
+DTSTART;TZID=America/New_York:20250802T203000
+DTEND;TZID=America/New_York:20250802T213000
+SUMMARY:🫰 To Be Hero X Episode 5
+DESCRIPTION:To Be Hero X Episode 5 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:to-be-hero-x-s1-ep6@anime
+DTSTART;TZID=America/New_York:20250809T203000
+DTEND;TZID=America/New_York:20250809T213000
+SUMMARY:🫰 To Be Hero X Episode 6
+DESCRIPTION:To Be Hero X Episode 6 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:to-be-hero-x-s1-ep7@anime
+DTSTART;TZID=America/New_York:20250816T203000
+DTEND;TZID=America/New_York:20250816T213000
+SUMMARY:🫰 To Be Hero X Episode 7
+DESCRIPTION:To Be Hero X Episode 7 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:to-be-hero-x-s1-ep8@anime
+DTSTART;TZID=America/New_York:20250823T203000
+DTEND;TZID=America/New_York:20250823T213000
+SUMMARY:🫰 To Be Hero X Episode 8
+DESCRIPTION:To Be Hero X Episode 8 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:to-be-hero-x-s1-ep9@anime
+DTSTART;TZID=America/New_York:20250830T203000
+DTEND;TZID=America/New_York:20250830T213000
+SUMMARY:🫰 To Be Hero X Episode 9
+DESCRIPTION:To Be Hero X Episode 9 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:to-be-hero-x-s1-ep10@anime
+DTSTART;TZID=America/New_York:20250906T203000
+DTEND;TZID=America/New_York:20250906T213000
+SUMMARY:🫰 To Be Hero X Episode 10
+DESCRIPTION:To Be Hero X Episode 10 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:to-be-hero-x-s1-ep11@anime
+DTSTART;TZID=America/New_York:20250913T203000
+DTEND;TZID=America/New_York:20250913T213000
+SUMMARY:🫰 To Be Hero X Episode 11
+DESCRIPTION:To Be Hero X Episode 11 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:to-be-hero-x-s1-ep12@anime
+DTSTART;TZID=America/New_York:20250920T203000
+DTEND;TZID=America/New_York:20250920T213000
+SUMMARY:🫰 To Be Hero X Episode 12
+DESCRIPTION:To Be Hero X Episode 12 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:witch-watch-s1-ep1@anime
 DTSTART;TZID=America/New_York:20250706T080000
 DTEND;TZID=America/New_York:20250706T090000
-RRULE:FREQ=WEEKLY
-SUMMARY:🧹 Witch Watch Episode 1
-DESCRIPTION:Witch Watch Episode 1
+SUMMARY:🧙‍♂️ Witch Watch Episode 1
+DESCRIPTION:Witch Watch Episode 1 airs today!
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
 DESCRIPTION:Episode airing now!
 END:VALARM
 END:VEVENT
-
-### Apothecary Diaries Season 2 (all-day placeholders weekly)
 BEGIN:VEVENT
-UID:apothecarydiaries-s2-1@anime
-DTSTART;TZID=America/New_York:20250704T000000
-DTEND;TZID=America/New_York:20250704T235900
-RRULE:FREQ=WEEKLY
-SUMMARY:🏺 Apothecary Diaries Season 2 Episode 1
-DESCRIPTION:Apothecary Diaries S2 Episode 1 (time TBD)
+UID:witch-watch-s1-ep2@anime
+DTSTART;TZID=America/New_York:20250713T080000
+DTEND;TZID=America/New_York:20250713T090000
+SUMMARY:🧙‍♂️ Witch Watch Episode 2
+DESCRIPTION:Witch Watch Episode 2 airs today!
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
 DESCRIPTION:Episode airing now!
 END:VALARM
 END:VEVENT
-
+BEGIN:VEVENT
+UID:witch-watch-s1-ep3@anime
+DTSTART;TZID=America/New_York:20250720T080000
+DTEND;TZID=America/New_York:20250720T090000
+SUMMARY:🧙‍♂️ Witch Watch Episode 3
+DESCRIPTION:Witch Watch Episode 3 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:witch-watch-s1-ep4@anime
+DTSTART;TZID=America/New_York:20250727T080000
+DTEND;TZID=America/New_York:20250727T090000
+SUMMARY:🧙‍♂️ Witch Watch Episode 4
+DESCRIPTION:Witch Watch Episode 4 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:witch-watch-s1-ep5@anime
+DTSTART;TZID=America/New_York:20250803T080000
+DTEND;TZID=America/New_York:20250803T090000
+SUMMARY:🧙‍♂️ Witch Watch Episode 5
+DESCRIPTION:Witch Watch Episode 5 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:witch-watch-s1-ep6@anime
+DTSTART;TZID=America/New_York:20250810T080000
+DTEND;TZID=America/New_York:20250810T090000
+SUMMARY:🧙‍♂️ Witch Watch Episode 6
+DESCRIPTION:Witch Watch Episode 6 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:witch-watch-s1-ep7@anime
+DTSTART;TZID=America/New_York:20250817T080000
+DTEND;TZID=America/New_York:20250817T090000
+SUMMARY:🧙‍♂️ Witch Watch Episode 7
+DESCRIPTION:Witch Watch Episode 7 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:witch-watch-s1-ep8@anime
+DTSTART;TZID=America/New_York:20250824T080000
+DTEND;TZID=America/New_York:20250824T090000
+SUMMARY:🧙‍♂️ Witch Watch Episode 8
+DESCRIPTION:Witch Watch Episode 8 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:witch-watch-s1-ep9@anime
+DTSTART;TZID=America/New_York:20250831T080000
+DTEND;TZID=America/New_York:20250831T090000
+SUMMARY:🧙‍♂️ Witch Watch Episode 9
+DESCRIPTION:Witch Watch Episode 9 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:witch-watch-s1-ep10@anime
+DTSTART;TZID=America/New_York:20250907T080000
+DTEND;TZID=America/New_York:20250907T090000
+SUMMARY:🧙‍♂️ Witch Watch Episode 10
+DESCRIPTION:Witch Watch Episode 10 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:witch-watch-s1-ep11@anime
+DTSTART;TZID=America/New_York:20250914T080000
+DTEND;TZID=America/New_York:20250914T090000
+SUMMARY:🧙‍♂️ Witch Watch Episode 11
+DESCRIPTION:Witch Watch Episode 11 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:witch-watch-s1-ep12@anime
+DTSTART;TZID=America/New_York:20250921T080000
+DTEND;TZID=America/New_York:20250921T090000
+SUMMARY:🧙‍♂️ Witch Watch Episode 12
+DESCRIPTION:Witch Watch Episode 12 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:apothecary-diaries-s2-ep1@anime
+DTSTART;TZID=America/New_York:20250704T210000
+DTEND;TZID=America/New_York:20250704T220000
+SUMMARY:🧪 Apothecary Diaries Season 2 Episode 1
+DESCRIPTION:Apothecary Diaries Season 2 Episode 1 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:apothecary-diaries-s2-ep2@anime
+DTSTART;TZID=America/New_York:20250711T210000
+DTEND;TZID=America/New_York:20250711T220000
+SUMMARY:🧪 Apothecary Diaries Season 2 Episode 2
+DESCRIPTION:Apothecary Diaries Season 2 Episode 2 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:apothecary-diaries-s2-ep3@anime
+DTSTART;TZID=America/New_York:20250718T210000
+DTEND;TZID=America/New_York:20250718T220000
+SUMMARY:🧪 Apothecary Diaries Season 2 Episode 3
+DESCRIPTION:Apothecary Diaries Season 2 Episode 3 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:apothecary-diaries-s2-ep4@anime
+DTSTART;TZID=America/New_York:20250725T210000
+DTEND;TZID=America/New_York:20250725T220000
+SUMMARY:🧪 Apothecary Diaries Season 2 Episode 4
+DESCRIPTION:Apothecary Diaries Season 2 Episode 4 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:apothecary-diaries-s2-ep5@anime
+DTSTART;TZID=America/New_York:20250801T210000
+DTEND;TZID=America/New_York:20250801T220000
+SUMMARY:🧪 Apothecary Diaries Season 2 Episode 5
+DESCRIPTION:Apothecary Diaries Season 2 Episode 5 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:apothecary-diaries-s2-ep6@anime
+DTSTART;TZID=America/New_York:20250808T210000
+DTEND;TZID=America/New_York:20250808T220000
+SUMMARY:🧪 Apothecary Diaries Season 2 Episode 6
+DESCRIPTION:Apothecary Diaries Season 2 Episode 6 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:apothecary-diaries-s2-ep7@anime
+DTSTART;TZID=America/New_York:20250815T210000
+DTEND;TZID=America/New_York:20250815T220000
+SUMMARY:🧪 Apothecary Diaries Season 2 Episode 7
+DESCRIPTION:Apothecary Diaries Season 2 Episode 7 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:apothecary-diaries-s2-ep8@anime
+DTSTART;TZID=America/New_York:20250822T210000
+DTEND;TZID=America/New_York:20250822T220000
+SUMMARY:🧪 Apothecary Diaries Season 2 Episode 8
+DESCRIPTION:Apothecary Diaries Season 2 Episode 8 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:apothecary-diaries-s2-ep9@anime
+DTSTART;TZID=America/New_York:20250829T210000
+DTEND;TZID=America/New_York:20250829T220000
+SUMMARY:🧪 Apothecary Diaries Season 2 Episode 9
+DESCRIPTION:Apothecary Diaries Season 2 Episode 9 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:apothecary-diaries-s2-ep10@anime
+DTSTART;TZID=America/New_York:20250905T210000
+DTEND;TZID=America/New_York:20250905T220000
+SUMMARY:🧪 Apothecary Diaries Season 2 Episode 10
+DESCRIPTION:Apothecary Diaries Season 2 Episode 10 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:apothecary-diaries-s2-ep11@anime
+DTSTART;TZID=America/New_York:20250912T210000
+DTEND;TZID=America/New_York:20250912T220000
+SUMMARY:🧪 Apothecary Diaries Season 2 Episode 11
+DESCRIPTION:Apothecary Diaries Season 2 Episode 11 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:apothecary-diaries-s2-ep12@anime
+DTSTART;TZID=America/New_York:20250919T210000
+DTEND;TZID=America/New_York:20250919T220000
+SUMMARY:🧪 Apothecary Diaries Season 2 Episode 12
+DESCRIPTION:Apothecary Diaries Season 2 Episode 12 airs today!
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Episode airing now!
+END:VALARM
+END:VEVENT
 END:VCALENDAR
