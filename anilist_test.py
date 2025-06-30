@@ -57,4 +57,3 @@ for list in data["data"]["MediaListCollection"]["lists"]:
         print(f"  Total episodes: {total_episodes}")
 
 
-add initial anilist test script
