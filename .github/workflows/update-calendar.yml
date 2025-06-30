@@ -12,16 +12,21 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
+
       - name: Install dependencies
         run: pip install pytz requests python-dateutil
+
       - name: Run calendar generator
         run: python generate_calendar.py
+
       - name: Run AniList test script
         run: python anilist_test.py
+
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
