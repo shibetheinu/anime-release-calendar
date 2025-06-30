@@ -17,7 +17,7 @@ jobs:
         with:
           python-version: '3.x'
       - name: Install dependencies
-        run: pip install pytz
+        run: pip install pytz requests python-dateutil
       - name: Run calendar generator
         run: python generate_calendar.py
       - name: Run AniList test script
