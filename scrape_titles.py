@@ -7,7 +7,7 @@ def scrape_mal_episode_titles(mal_id, title):
     base_url = f"https://myanimelist.net/anime/{mal_id}/{title.replace(' ', '_')}/episode"
     ep_titles = {}
 
-    for page in range(1, 5):  # usually enough
+    for page in range(1, 5):  # usually enough pages
         url = f"{base_url}?p={page}"
         print(f"Scraping {url}")
         resp = requests.get(url)
@@ -19,14 +19,22 @@ def scrape_mal_episode_titles(mal_id, title):
 
         for ep in ep_list:
             number_tag = ep.select_one(".episode-number")
-            number = number_tag.text.strip().replace("Episode ", "") if number_tag else "unknown"
+            if number_tag:
+                number = number_tag.text.strip().replace("Episode ", "")
+            else:
+                print("⚠️  no .episode-number found in:", ep)
+                continue  # skip if no episode number
 
-            title_tag = ep.select_one(".title")
-            name = title_tag.text.strip() if title_tag else f"Episode {number}"
+            title_tag = ep.select_one(".title a")
+            if title_tag:
+                name = title_tag.text.strip()
+            else:
+                print(f"⚠️  no .title a found for episode {number}, using fallback")
+                name = f"Episode {number}"
 
             ep_titles[number] = name
 
-        time.sleep(1.5)  # don’t hammer MAL
+        time.sleep(1.5)  # be nice to their servers
 
     return ep_titles
 
@@ -34,14 +42,14 @@ if __name__ == "__main__":
     shows = {
         "Chainsaw Man Reze Arc": 44511,
         "Spy x Family": 50265,
-        # add more shows with their MAL ids here
+        # add more shows here
     }
 
     all_titles = {}
     for title, mal_id in shows.items():
         all_titles[title] = scrape_mal_episode_titles(mal_id, title)
 
-    with open("episode_titles.json", "w") as f:
+    with open("episode_titles.json", "w", encoding="utf-8") as f:
         json.dump(all_titles, f, indent=2, ensure_ascii=False)
 
     print("🎉 done! titles saved to episode_titles.json")
