@@ -18,8 +18,12 @@ def scrape_mal_episode_titles(mal_id, title):
             break
 
         for ep in ep_list:
-            number = ep.select_one(".episode-number").text.strip().replace("Episode ", "")
-            name = ep.select_one(".title").text.strip()
+            number_tag = ep.select_one(".episode-number")
+            number = number_tag.text.strip().replace("Episode ", "") if number_tag else "unknown"
+
+            title_tag = ep.select_one(".title")
+            name = title_tag.text.strip() if title_tag else f"Episode {number}"
+
             ep_titles[number] = name
 
         time.sleep(1.5)  # don’t hammer MAL
@@ -30,7 +34,7 @@ if __name__ == "__main__":
     shows = {
         "Chainsaw Man Reze Arc": 44511,
         "Spy x Family": 50265,
-        # put more shows here with their MAL ids
+        # add more shows with their MAL ids here
     }
 
     all_titles = {}
