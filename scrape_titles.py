@@ -30,7 +30,6 @@ def scrape_mal_episode_titles(mal_id, title):
             if title_tag:
                 name = title_tag.text.strip()
             else:
-                # fallback title
                 print(f"⚠️  Missing title for episode {number}, falling back to generic name")
                 name = f"Episode {number}"
 
