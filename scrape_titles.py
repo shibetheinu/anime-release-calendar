@@ -7,7 +7,7 @@ def scrape_mal_episode_titles(mal_id, title):
     base_url = f"https://myanimelist.net/anime/{mal_id}/{title.replace(' ', '_')}/episode"
     ep_titles = {}
 
-    for page in range(1, 5):  # up to 4 pages
+    for page in range(1, 5):
         url = f"{base_url}?p={page}"
         print(f"Scraping {url}")
         resp = requests.get(url)
@@ -43,7 +43,6 @@ if __name__ == "__main__":
     shows = {
         "Chainsaw Man Reze Arc": 44511,
         "Spy x Family": 50265,
-        # add more shows if you want
     }
 
     all_titles = {}
