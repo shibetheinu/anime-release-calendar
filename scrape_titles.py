@@ -7,7 +7,7 @@ def scrape_mal_episode_titles(mal_id, title):
     base_url = f"https://myanimelist.net/anime/{mal_id}/{title.replace(' ', '_')}/episode"
     ep_titles = {}
 
-    for page in range(1, 5):  # usually enough pages
+    for page in range(1, 5):  # up to 4 pages
         url = f"{base_url}?p={page}"
         print(f"Scraping {url}")
         resp = requests.get(url)
@@ -15,6 +15,7 @@ def scrape_mal_episode_titles(mal_id, title):
 
         ep_list = soup.select(".episode-list-data")
         if not ep_list:
+            print("⚠️  No episodes found on this page, stopping.")
             break
 
         for ep in ep_list:
@@ -22,19 +23,20 @@ def scrape_mal_episode_titles(mal_id, title):
             if number_tag:
                 number = number_tag.text.strip().replace("Episode ", "")
             else:
-                print("⚠️  no .episode-number found in:", ep)
-                continue  # skip if no episode number
+                print("⚠️  Missing episode-number, skipping entry.")
+                continue
 
             title_tag = ep.select_one(".title a")
             if title_tag:
                 name = title_tag.text.strip()
             else:
-                print(f"⚠️  no .title a found for episode {number}, using fallback")
+                # fallback title
+                print(f"⚠️  Missing title for episode {number}, falling back to generic name")
                 name = f"Episode {number}"
 
             ep_titles[number] = name
 
-        time.sleep(1.5)  # be nice to their servers
+        time.sleep(1.5)
 
     return ep_titles
 
@@ -42,7 +44,7 @@ if __name__ == "__main__":
     shows = {
         "Chainsaw Man Reze Arc": 44511,
         "Spy x Family": 50265,
-        # add more shows here
+        # add more shows if you want
     }
 
     all_titles = {}
